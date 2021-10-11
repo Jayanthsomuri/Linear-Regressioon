@@ -4,7 +4,8 @@ Linear regression is one of the most commonly used predictive modelling techniqu
 
 Here we used Linear-Regression model to predict the salary based on the years of Experience.
 
-->We initially imported the respected libraries required to plot Namely:- pandas,numpy,matplotlib.
+-> Initially imported the respected libraries required to plot Namely:- pandas,numpy,matplotlib.
 
-->We gave the datsaset to the model
+->Loaded the datsaset to the model
 
+->Plotted on the graph
