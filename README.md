@@ -9,3 +9,5 @@ Here we used Linear-Regression model to predict the salary based on the years of
 ->Loaded the datsaset to the model
 
 ->Plotted on the graph
+
+->Imported the scikit-learn module to train and test the data.
