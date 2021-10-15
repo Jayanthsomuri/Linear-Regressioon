@@ -15,6 +15,6 @@ Here we used Linear-Regression model to predict the salary based on the years of
 ->Imported the Scikit-learn module for Linear Regression as LR.
 
 ->Using LR the predicted values and original values are compared and line of regression is drawn.
- btwn  years of Experience and Salary.
+ between  years of Experience and Salary.
 
 
